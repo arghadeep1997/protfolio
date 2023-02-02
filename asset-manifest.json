@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/protfolio/static/css/main.bb6f5732.css",
+    "main.js": "/protfolio/static/js/main.cd3c43db.js",
+    "static/media/web.jpg": "/protfolio/static/media/web.e8958b88a73e1e64756e.jpg",
+    "static/media/software.jpg": "/protfolio/static/media/software.2bad6d715d7e40f63640.jpg",
+    "static/media/digital.jpg": "/protfolio/static/media/digital.906a8d993a8dcd3e20c4.jpg",
+    "static/media/marketing.png": "/protfolio/static/media/marketing.3894c67360a1706add1c.png",
+    "static/media/app.jpg": "/protfolio/static/media/app.0acc33586dafa29f0d0c.jpg",
+    "static/media/About.jpg": "/protfolio/static/media/About.42d47079aa90e0af3ce9.jpg",
+    "static/media/Home.jpg": "/protfolio/static/media/Home.0c365ded652be1fc667f.jpg",
+    "static/media/andriod.png": "/protfolio/static/media/andriod.16c1b729b3ac8615ddbc.png",
+    "index.html": "/protfolio/index.html",
+    "main.bb6f5732.css.map": "/protfolio/static/css/main.bb6f5732.css.map",
+    "main.cd3c43db.js.map": "/protfolio/static/js/main.cd3c43db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb6f5732.css",
+    "static/js/main.cd3c43db.js"
+  ]
+}
